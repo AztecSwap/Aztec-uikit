@@ -2397,7 +2397,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/AztecSwap",
+        href: "https://twitter.com/Heronetworkk",
     },
 ];
 var MENU_HEIGHT = 64;
