@@ -2386,18 +2386,18 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/AztecSwapChat",
+                href: "https://t.me/heronetworkofficiall",
             },
             {
                 label: "Announcements",
-                href: "https://t.me/AztecSwapAnn",
+                href: "https://t.me/heronetworkofficiall",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/AztecSwap",
+        href: "https://twitter.com/Heronetworkk",
     },
 ];
 var MENU_HEIGHT = 64;
